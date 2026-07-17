@@ -18,6 +18,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Troncoolio&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Troncoolio&layout=compact&theme=radical)
+
